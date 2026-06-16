@@ -1,7 +1,6 @@
 # 🛒 Análisis de Ventas — Supermercado de Verduras
 ### Pipeline completo: Python → Modelo Estrella → Power BI
-
-![Dashboard](dashboard_preview.png)
+<img width="1071" height="605" alt="image" src="https://github.com/user-attachments/assets/7eba67f5-b65f-4e53-8730-8c35d1f9f7d4" />
 
 ---
 
