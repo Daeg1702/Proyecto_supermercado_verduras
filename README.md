@@ -175,7 +175,7 @@ Kg Perdidos Estimados = SUMX(fact_ventas, fact_ventas[Quantity_Kg] * LOOKUPVALUE
 **Diego Encalada**  
 Ingeniero en Ciencias de la Computación  
 Analista BI Jr. — Ambiensa S.A.  
-Maestría en Visual Analytics & Big Data — UNIR  
+Maestría en Visual Analytics & Big Data — UNIR (Cursando)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Encalada-0077B6?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-encalada-garcia-b13322271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Daeg1702-181717?style=flat&logo=github)](https://github.com/Daeg1702)
